@@ -1,0 +1,192 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+span{
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+#body{
+    height: 100vh;
+width: 100%;
+display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#main{
+    height: 2600px;
+    width: 1512px;
+    background-color: rgb(92, 185, 185);
+    position: relative;
+    
+    
+}
+
+#nav2{
+    height: 41px;
+    width: 1167px;
+    top: 59px;
+    left: 41px;
+    background-color: white;
+    position: absolute;
+    display: flex;
+    align-items: center;
+}
+
+#nav3{
+    height: 82px;
+    width: 1167px;
+    top: 142px;
+    left: 41px;
+    background-color: white;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+#map{
+    height: 520px;
+    width: 1167px;
+    top: 230px;
+    left: 41px;
+    background-color: white;
+    display: flex;
+    position: absolute;
+
+}
+
+#div1{
+    height: 41px;
+    width: 1167px;
+    top: 800px;
+    left: 41px;
+    display: flex;
+    position: absolute;
+    background-color: white;
+
+}
+
+
+
+#div2{
+    height: 41px;
+    width: 1167px;
+    top: 870px;
+    left: 41px;
+    display: flex;
+    position: absolute;
+    background-color: white;
+
+}
+
+
+
+#div3{
+    height: 41px;
+    width: 1167px;
+    top: 940px;
+    left: 41px;
+    display: flex;
+    position: absolute;
+    background-color: white;
+
+}
+
+
+
+#div4{
+    height: 41px;
+    width: 1167px;
+    top: 1010px;
+    left: 41px;
+    
+    position: absolute;
+    background-color: white;
+
+
+}
+
+#div5{
+    height: 65px;
+    width: 1167px;
+    top: 1080px;
+    left: 41px;
+    
+    position: absolute;
+    background-color: white;
+}
+
+#details{
+    width: 440px;
+    height: 120px;
+    top: 1200px;
+    left: 41px;
+    padding: 20px; 
+    margin-bottom: 20px;
+    position:absolute;
+    background-color: white;
+    justify-content: center;
+}
+
+#details2{
+    width: 440px;
+    height: 120px;
+    top: 1200px;
+    left: 690px;
+    padding: 20px; 
+    position:absolute;
+    background-color: white;
+    justify-content: center;
+}
+#details3{
+    width: 440px;
+    height: 120px;
+    top: 1400px;
+    left: 41px;
+    padding: 20px; 
+    position:absolute;
+    background-color: white;
+    justify-content: center;
+}
+#details4{
+    width: 440px;
+    height: 120px;
+    top: 1400px;
+    left: 690px;   
+    padding: 20px; 
+    position:absolute;
+    background-color: white;
+    justify-content: center;
+}
+
+#main2{
+    display: flex;
+}
+
+#main3{
+    
+    height: 500px;
+    width: 50vw;
+    justify-content: center;
+    background-color: violet;
+}
+
+#main3 button{
+    height: 50px;
+width: 120px;
+margin-top: 30px;
+margin-left: 30px;
+}
+
+#main3 h2{
+    padding-top: 20px;
+    padding-left: 30px;
+
+}
